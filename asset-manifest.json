@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/donation/static/css/main.9ca656dd.css",
-    "main.js": "/donation/static/js/main.ba0316e5.js",
+    "main.css": "/donation/static/css/main.b25001d3.css",
+    "main.js": "/donation/static/js/main.0cf27087.js",
     "static/js/453.fbca095c.chunk.js": "/donation/static/js/453.fbca095c.chunk.js",
     "static/media/Brand4.png": "/donation/static/media/Brand4.32aa787c9210b2fbf535.png",
     "static/media/qr2.jpeg": "/donation/static/media/qr2.1c232b3c2bfcfb809c28.jpeg",
@@ -10,12 +10,12 @@
     "static/media/Brand2.png": "/donation/static/media/Brand2.74fc804738e116426f05.png",
     "static/media/Brand3.png": "/donation/static/media/Brand3.dbaf67d0afac1cc57cd4.png",
     "index.html": "/donation/index.html",
-    "main.9ca656dd.css.map": "/donation/static/css/main.9ca656dd.css.map",
-    "main.ba0316e5.js.map": "/donation/static/js/main.ba0316e5.js.map",
+    "main.b25001d3.css.map": "/donation/static/css/main.b25001d3.css.map",
+    "main.0cf27087.js.map": "/donation/static/js/main.0cf27087.js.map",
     "453.fbca095c.chunk.js.map": "/donation/static/js/453.fbca095c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ca656dd.css",
-    "static/js/main.ba0316e5.js"
+    "static/css/main.b25001d3.css",
+    "static/js/main.0cf27087.js"
   ]
 }
